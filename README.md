@@ -4,7 +4,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/donaldo-ibarra-desarrollador-full-stack/"><img src="https://img.shields.io/badge/LinkedIn-Donaldo_Ibarra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Donaldo500"><img src="https://img.shields.io/badge/GitHub-Donaldo500-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -156,7 +155,6 @@ Me formé en el programa de desarrollo web y backend de **EBAC (Escuela Británi
 ## Contacto
 
 <p>
-  <a href="https://github.com/Donaldo500"><img src="https://img.shields.io/badge/GitHub-Donaldo500-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/donaldo-ibarra-desarrollador-full-stack/"><img src="https://img.shields.io/badge/LinkedIn-Donaldo_Ibarra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
