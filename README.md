@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Donaldo+Ibarra;Desarrollador+Full+Stack+en+formaci%C3%B3n;Java+%7C+Spring+%7C+JDBC+%7C+JPA;React+%7C+TypeScript+%7C+SCSS" alt="Donaldo Ibarra - Desarrollador Full Stack en formación" />
 
 <p>
-  <a href="https://github.com/Donaldo500"><img src="https://img.shields.io/github/followers/Donaldo500?label=Seguidores&style=for-the-badge&logo=github&color=1a1b27" alt="Seguidores en GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Donaldo500&label=Visitas&style=for-the-badge&color=7aa2f7" alt="Visitas al perfil" />
+  <a href="https://www.linkedin.com/in/donaldo-ibarra-desarrollador-full-stack/"><img src="https://img.shields.io/badge/LinkedIn-Donaldo_Ibarra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Donaldo500"><img src="https://img.shields.io/badge/GitHub-Donaldo500-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -157,9 +157,7 @@ Me formé en el programa de desarrollo web y backend de **EBAC (Escuela Británi
 
 <p>
   <a href="https://github.com/Donaldo500"><img src="https://img.shields.io/badge/GitHub-Donaldo500-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Agrega aquí tu LinkedIn cuando lo tengas:
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Donaldo_Ibarra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/donaldo-ibarra-desarrollador-full-stack/"><img src="https://img.shields.io/badge/LinkedIn-Donaldo_Ibarra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-Si quieres colaborar en algún proyecto o tienes alguna propuesta, abre un issue en cualquiera de mis repositorios.
+Si quieres colaborar en algún proyecto o tienes una propuesta laboral, escríbeme por [LinkedIn](https://www.linkedin.com/in/donaldo-ibarra-desarrollador-full-stack/) o abre un issue en cualquiera de mis repositorios.
